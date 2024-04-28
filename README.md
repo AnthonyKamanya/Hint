@@ -1,0 +1,1 @@
+Single Class Design
